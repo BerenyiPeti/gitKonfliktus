@@ -15,8 +15,10 @@ public class KonfliktusKezeles {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int i = 7;
         String nev1;
         String nev2 = "nev2";
+        int nev3
     }
     
 }
